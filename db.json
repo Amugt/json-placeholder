@@ -1,14 +1,39 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "Musics": [
+    {
+      "id": 1,
+      "artist": "Leanne Graham",
+      "title": "Bret"
+    },
+    {
+      "id": 2,
+      "artist": "Ervin Howell",
+      "title": "Antonette"
+    },
+    {
+      "id": 3,
+      "artist": "Clementine Bauch",
+      "title": "clementine"
+    },
+    {
+      "id": 4,
+      "artist": "Patricia Lebsack",
+      "title": "Karianne"
+    },
+    {
+      "id": 5,
+      "artist": "Chelsey Dietrich",
+      "title": "Kamren"
+    },
+    {
+      "id": 6,
+      "artist": "Jake Runolfsdottir V",
+      "title": "Leopoldo_Corkery"
+    },
+    {
+      "id": 7,
+      "artist": "Mrs. Dennis Schulist",
+      "title": "Karley_Dach"
+    }
+  ]
 }
