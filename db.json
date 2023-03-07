@@ -1,39 +1,46 @@
 {
   "Musics": [
     {
-      "id": 1,
-      "artist": "Leanne Graham",
-      "title": "Bret"
+      "title": "Ed sheeran",
+      "artist": "perfect",
+      "genre": "Pop",
+      "id": 2
     },
     {
-      "id": 2,
-      "artist": "Ervin Howell",
-      "title": "Antonette"
+      "title": "Brettt",
+      "artist": "i am not afraid",
+      "genre": "African",
+      "id": 3
     },
     {
-      "id": 3,
-      "artist": "Clementine Bauch",
-      "title": "clementine"
+      "title": "Ed sheeran",
+      "artist": "Leanne",
+      "genre": "Blues",
+      "id": 4
     },
     {
-      "id": 4,
-      "artist": "Patricia Lebsack",
-      "title": "Karianne"
+      "title": "50 cent",
+      "artist": "Ervin Howel",
+      "genre": "Jazz",
+      "id": 5
     },
     {
-      "id": 5,
-      "artist": "Chelsey Dietrich",
-      "title": "Kamren"
+      "title": "Ed sheeran",
+      "artist": "Leanne",
+      "genre": "Other",
+      "id": 7
     },
     {
-      "id": 6,
-      "artist": "Jake Runolfsdottir V",
-      "title": "Leopoldo_Corkery"
+      "title": "Ed sheeran",
+      "artist": "i am not afraid",
+      "genre": "Electronic",
+      "id": 8
     },
     {
-      "id": 7,
-      "artist": "Mrs. Dennis Schulist",
-      "title": "Karley_Dach"
+      "title": "Eminem",
+      "artist": "Ervin Howel",
+      "genre": "reggae",
+      "id": 15
     }
   ]
 }
